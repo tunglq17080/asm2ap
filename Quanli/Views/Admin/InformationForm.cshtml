@@ -1,0 +1,21 @@
+﻿@model Quanli.Models.Training
+@{
+    ViewBag.Title = "InformationForm";
+}
+
+<h2>Information</h2>
+@using (Html.BeginForm("Save", "Admin"))
+{
+    <p>@Model.Email</p>
+    <div class="form-group-">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextAreaFor(m => m.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group-">
+        @Html.LabelFor(m => m.BirthDate)
+        @Html.TextAreaFor(m => m.BirthDate, new { @class = "form-control" })
+    </div>
+    @Html.HiddenFor(m => Model.Email)
+    <button class="btn btn-default" type="submit">Save</button>
+}
+

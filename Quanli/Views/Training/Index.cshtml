@@ -1,0 +1,21 @@
+﻿@model Quanli.Models.Training
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Hello @Model.Name</h2>
+<div class="row">
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Managing subjects", "ManageSubject", "Subject")</h2>
+
+    </div>
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Course management", "Index", "Course")</h2>
+    </div>
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Manage Trainer Account", "Index", "ManangerAccount")</h2>
+    </div>
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Manage Trainee Account", "Index", "TraineeAccount")</h2>
+    </div>
+</div>

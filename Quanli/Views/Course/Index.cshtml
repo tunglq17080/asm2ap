@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Quanli.Models.Course>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>View Course</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Course's Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@Html.ActionLink(course.Name, "SubjectList", "Course", new { id = course.Id }, null)</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+@Html.ActionLink("Create new Customer", "CourseForm", "Course")
+

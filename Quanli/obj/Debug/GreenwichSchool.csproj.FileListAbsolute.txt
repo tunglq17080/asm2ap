@@ -1,0 +1,344 @@
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.dll.config
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.pdb
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.exe
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.exe.config
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.rsp
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.exe
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.exe.config
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.rsp
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.AppContext.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Console.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Claims.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.exe
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.exe.config
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.rsp
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Antlr3.Runtime.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\EntityFramework.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Newtonsoft.Json.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Owin.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Helpers.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Mvc.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Optimization.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Razor.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\WebGrease.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Helpers.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Mvc.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Optimization.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Razor.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Newtonsoft.Json.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Antlr3.Runtime.pdb
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\EntityFramework.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.CoreCompileInputs.cache
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.CopyComplete
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.pdb
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\AutoMapper.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\AutoMapper.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csprojAssemblyReference.cache
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.Migrations.InitialDatabase.resources
+C:\Users\HAI\source\repos\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.GenerateResource.cache
+E:\project\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.dll.config
+E:\project\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.pdb
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.exe
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.exe.config
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.rsp
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.exe
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.exe.config
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.rsp
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.AppContext.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Collections.Immutable.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Console.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Compression.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.FileSystem.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Pipes.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.AccessControl.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Claims.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Principal.Windows.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.ValueTuple.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XPath.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.exe
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.exe.config
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.rsp
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\VBCSCompiler.exe
+E:\project\GreenwichSchool\GreenwichSchool\bin\roslyn\VBCSCompiler.exe.config
+E:\project\GreenwichSchool\GreenwichSchool\bin\Antlr3.Runtime.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\AutoMapper.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\EntityFramework.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\EntityFramework.SqlServer.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Core.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Cookies.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Facebook.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Google.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.OAuth.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Twitter.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Web.Infrastructure.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Newtonsoft.Json.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\Owin.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Net.Http.Formatting.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Helpers.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.WebHost.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Mvc.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Optimization.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Razor.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Deployment.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Razor.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\WebGrease.dll
+E:\project\GreenwichSchool\GreenwichSchool\bin\AutoMapper.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Net.Http.Formatting.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.WebHost.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Helpers.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Mvc.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Optimization.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.Razor.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Deployment.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Razor.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Newtonsoft.Json.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Antlr3.Runtime.pdb
+E:\project\GreenwichSchool\GreenwichSchool\bin\EntityFramework.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\EntityFramework.SqlServer.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Core.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Facebook.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Cookies.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Google.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Twitter.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.OAuth.xml
+E:\project\GreenwichSchool\GreenwichSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csprojAssemblyReference.cache
+E:\project\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.CoreCompileInputs.cache
+E:\project\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.CopyComplete
+E:\project\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.dll
+E:\project\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.pdb
+E:\project\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.Migrations.FPTEdu.resources
+E:\project\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.GenerateResource.cache
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.Migrations.FPTEdu.resources
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.GenerateResource.cache
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.pdb
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.dll.config
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\GreenwichSchool.pdb
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.exe
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.exe.config
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\csc.rsp
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.exe
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.exe.config
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\csi.rsp
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.AppContext.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Console.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Claims.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.exe
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.exe.config
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\vbc.rsp
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Antlr3.Runtime.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\AutoMapper.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\EntityFramework.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Newtonsoft.Json.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Owin.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Helpers.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Mvc.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Optimization.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Razor.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\WebGrease.dll
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\AutoMapper.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Helpers.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Mvc.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Optimization.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.Razor.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Newtonsoft.Json.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Antlr3.Runtime.pdb
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\EntityFramework.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HAI\Downloads\ASM ASP.net\GreenwichSchool\GreenwichSchool\obj\Debug\GreenwichSchool.csproj.CopyComplete

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Quanli.Models.SubjectToCourse>
+@{
+    ViewBag.Title = "SubjectList";
+}
+
+<h2>SubjectList</h2>
+@using (Html.BeginForm())
+{
+    int courseId = ViewBag.CourseId;
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Subject Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var subjectList in Model)
+            {
+                <tr>
+                    <td>@subjectList.Subject.name</td>
+                </tr>
+                @*courseId = subjectList.Course.Id;*@
+            }
+
+        </tbody>
+    </table>
+    @Html.ActionLink("Add new subject", "SubjectToCourseForm", "Course", new { id = courseId},null)
+}
+
+

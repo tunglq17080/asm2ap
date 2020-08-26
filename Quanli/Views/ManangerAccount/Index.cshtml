@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Quanli.Models.Trainer>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Manage trainer Account</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var trainer in Model)
+        {
+            <tr>
+                <td>@Html.ActionLink(trainer.Name, "CourseInfor", "ManangerAccount", new { id = trainer.Id }, null)</td>
+                <td>@Html.ActionLink("Edit", "InformationForm", "ManangerAccount", new {id = trainer.Id }, null)</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+@Html.ActionLink("Create new trainer", "AdminRegister", "ManangerAccount")

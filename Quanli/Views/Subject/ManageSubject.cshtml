@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Manage subject";
+}
+
+<h2>Manage subject</h2>
+<table id="subjects" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Name of subject</th>
+            <th scope="col">Information</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    <tbody> 
+    </tbody>
+</table>
+@Html.ActionLink("Create New Subject", "SubjectForm", "Subject")
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            var table =  $("#subjects").DataTable({
+                ajax: {
+                    url: "/api/subject",
+                    dataSrc: ""
+                },
+                columns: [
+                    {
+                        data: "name",
+                        render: function (data, tye, subject) {
+                            return "<a href='/subject/edit/" + subject.id + "'>" + subject.name + "</a>"; 
+                        }
+                    },
+                    {
+                        data: "information",
+                        render: function (data, tye, subject) {
+                            return "<tr>" + subject.information + "</tr>"; 
+                        }
+                    },
+                    {
+                        data: "id",
+                        render: function (data  ) {
+                            return " <button class='btn-link js-delete' data-subject-id=" + data + ">DeLete</button>"; 
+                        }
+                    }
+                ]
+            });
+
+            $("#subjects").on("click", ".js-delete", function () {
+                var button = $(this);
+                bootbox.confirm("Are you sure you want to delete this subject?", function (result) {
+                    $.ajax({
+                        url: "/api/subject/" + button.attr("data-subject-id"), method: "DELETE", success: function () {
+                            table.row( button.parents("tr")).remove().draw();//viet subjiect sai  chinh ta, 
+                        }
+                    });
+                });
+
+            });
+        });
+    </script>
+}
+

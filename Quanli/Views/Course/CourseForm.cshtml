@@ -1,0 +1,17 @@
+﻿@model Quanli.Models.Course
+@{
+    ViewBag.Title = "CourseForm";
+}
+
+<h2>Course Form</h2>
+@using (Html.BeginForm("Save", "Course"))// goi save trong controler
+{
+
+    <div class="form-group-">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextAreaFor(m => m.Name, new { @class = "form-control" })
+    </div>
+    @Html.HiddenFor(m => m.Id)
+    <button class="btn btn-default" type="submit">Save</button>
+
+}

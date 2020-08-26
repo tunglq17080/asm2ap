@@ -1,0 +1,26 @@
+﻿@*@@model Quanli.Models.RegisterViewModel*@
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>What administrative actions would you take?</h2>
+@Html.ActionLink("Create new users", "AdminRegister", "Admin")
+@*@<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+            </tr>
+        }
+
+    </tbody>
+</table>*@
+

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Quanli.Models.Subject>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Choose subject</h2>
+@using (Html.BeginForm())
+{
+    int CId =ViewBag.CourseId;
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Add</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model)
+            {
+                <tr>
+                    <td>@customer.name</td>
+                    <td>@Html.ActionLink("Add", "Add", "Course", new { courseId = CId, subjectId = customer.Id }, null)</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+
+@*Html.ActionLink("Create new Customer", "New", "Customers")*@
+
